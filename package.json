@@ -1,0 +1,31 @@
+{
+  "name": "pokdeng",
+  "version": "1.0.0",
+  "description": "Functional Programming TypeScript Console Pokdeng Game",
+  "main": "pokdengp.ts",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3000",
+    "lint": "tsc --noEmit",
+    "start": "ts-node pokdengp.ts"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^20.11.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "tailwindcss": "^4.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "vite": "^8.3.2"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.51.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}

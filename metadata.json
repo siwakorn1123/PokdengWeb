@@ -1,0 +1,6 @@
+{
+  "name": "Pokdeng (ป๊อกเด้ง) - Thai Card Game",
+  "description": "An authentic Thai Pokdeng card game built with TypeScript Functional Programming (FP), featuring real-time dealer showdowns, Pok 8/9 detection, Deng multipliers, and an interactive state timeline.",
+  "permissions": [],
+  "capabilities": []
+}
